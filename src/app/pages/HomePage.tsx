@@ -163,7 +163,7 @@ export function HomePage() {
           </div>
 
           <h1 className="text-2xl sm:text-4xl font-bold tracking-tight">
-            Secure<span className="text-primary">Drop</span>
+            Silent <span className="text-primary">Drop</span>
           </h1>
         </div>
 
